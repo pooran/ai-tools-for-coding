@@ -29,3 +29,12 @@ Following are the latest tools for coding using AI
 [Claude](https://claude.ai)
 
 [Grok](https://www.grok.com)
+
+
+## Present
+
+[Presentations.ai](https://www.presentations.ai/)
+
+[Canva](https://www.canva.com)
+
+[Gamma](https://gamma.app/)
