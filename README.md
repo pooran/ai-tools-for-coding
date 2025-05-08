@@ -26,6 +26,6 @@ Following are the latest tools for coding using AI
 
 [Perplexity](https://www.perplexity.com)
 
-[Claude](claude.ai)
+[Claude](https://claude.ai)
 
-[Grok](www.grok.com)
+[Grok](https://www.grok.com)
