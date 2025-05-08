@@ -20,3 +20,12 @@ Following are the latest tools for coding using AI
 [WindSurf](https://windsurf.com/editor)
 
 [AugmentCode](https://www.augmentcode.com/)
+
+
+## Search and code 
+
+[Perplexity](https://www.perplexity.com)
+
+[Claude](claude.ai)
+
+[Grok](www.grok.com)
